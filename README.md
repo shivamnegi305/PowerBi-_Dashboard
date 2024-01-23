@@ -1,4 +1,4 @@
-# Attrition PowerBi_Dashboard
+# Attrition Analytics PowerBi_Dashboard
 
 The motive of this project is to create an interactive Power Bi Dashboard which 
 give employees Attrition details of the company like through which company's deparments
